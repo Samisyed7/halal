@@ -7,6 +7,7 @@ function App() {
      <h1>zayn</h1>
      <h1>Shaikh Maksud laal hai</h1>
      <p>MERN DEVLOPER</p>
+     <h1>ahtesham</h1>
 
     </div>
   );
